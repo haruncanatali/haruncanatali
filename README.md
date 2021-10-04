@@ -5,7 +5,10 @@
  
   <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=haruncanatali&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-     ![giphy](https://user-images.githubusercontent.com/77530565/135879683-ea08a069-d232-4bcf-8959-3c1c30e8adfb.gif)
+    <img  src="  https://user-images.githubusercontent.com/77530565/135879683-ea08a069-d232-4bcf-8959-3c1c30e8adfb.gif" />
+    
+    
+  
 
   </div>
    <!--if you read this file know that I got your attention-->
