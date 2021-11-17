@@ -2,7 +2,7 @@
 <p align="center">
   I graduated at <b>Ataturk University</b> Computer Science. 
 </p>
- 
+  <p align="center"><b>I am currently working at Ada Yazılım as Full Stack Developer.</b></p>
   <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=haruncanatali&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
     <br>
