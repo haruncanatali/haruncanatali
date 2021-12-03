@@ -6,7 +6,7 @@
   <div align="center">
    <img  src="https://github-readme-stats.vercel.app/api?username=haruncanatali&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
     <br>
-    <img src="https://camo.githubusercontent.com/a94105d6b41fe197776d499e0c87fe671cb8f3b4b921277ef6916cd8db1c84a6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d79656468726162266c61796f75743d636f6d70616374267468656d653d67727576626f7826686964653d6a7570797465722532306e6f7465626f6f6b2c68746d6c266c616e67735f636f756e743d37" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=haruncanatali;layout=compact&amp;theme=gruvbox&amp;hide=jupyter%20notebook,html&amp;langs_count=7" style="max-width: 100%;">
+    
     <br>
     <img  src="https://user-images.githubusercontent.com/77530565/135879683-ea08a069-d232-4bcf-8959-3c1c30e8adfb.gif" />
     
