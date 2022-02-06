@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haruncana</h1>
+<h1 align="center">Hi 👋, I'm Haruncan</h1>
 <h3 align="center">I'm a Full Stack Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haruncanatali&label=Profile%20views&color=0e75b6&style=flat" alt="haruncanatali" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **haruncan.atali@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
