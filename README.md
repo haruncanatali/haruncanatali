@@ -6,12 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruncanatali" alt="haruncanatali" /></a> </p>
 
 <p align="center">- 🔭 I’m currently working on **SAP Web Software**</p>
-
-- 🌱 I’m currently learning **ElasticSearch,SignalR,Node.js**
-
-- 💬 Ask me about **.Net,SQL,Embedded Systems**
-
-- 📫 How to reach me **haruncan.atali@gmail.com**
+<p align="center">- 🌱 I’m currently learning **ElasticSearch,SignalR,Node.js**</p>
+<p align="center">- 💬 Ask me about **.Net,SQL,Embedded Systems**</p>
+<p align="center">- 📫 How to reach me **haruncan.atali@gmail.com**</p>
 
 
 <p align="left">
