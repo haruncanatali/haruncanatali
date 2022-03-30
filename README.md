@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haruncanatali&show_icons=true&locale=en" alt="haruncanatali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haruncanatali&" alt="haruncanatali" /></p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="enter image description here" style="max-width: 100%;"></a></p>
