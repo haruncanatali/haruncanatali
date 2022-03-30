@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haruncan</h1>
 <h3 align="center">I'm a Full Stack Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haruncanatali&label=Profile%20views&color=0e75b6&style=flat" alt="haruncanatali" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=haruncanatali&label=Profile%20views&color=0e75b6&style=flat" alt="haruncanatali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruncanatali" alt="haruncanatali" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haruncanatali" alt="haruncanatali" /></a> </p>
 
 - 🔭 I’m currently working on **SAP Web Software**
 
